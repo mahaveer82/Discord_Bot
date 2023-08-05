@@ -23,5 +23,5 @@ client.on('interactionCreate', (interaction) =>{
 });
 
 client.login(
-    "MTEzNzMxNTg3NDQ1ODU3ODk0NA.GePua4.NnrZXvj3bPo8_R-cb8W8FHG71HP4kKxI8ac-k4"
+    "<Your Token>"
 );
